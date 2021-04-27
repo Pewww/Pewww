@@ -1,5 +1,7 @@
 ### Welcome to Pewww's Github Profile 👋
 
+✍🏻 [Blog](https://pewww.tistory.com) / 🌍 [LinkedIn](www.linkedin.com/in/윤재-정-511a31210)
+
  [![Pewww's github stats](https://github-readme-stats.vercel.app/api?username=Pewww)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
